@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[-1.5,-1.75,8.0],"to":[18.5,26.25,8.0],"faces":{"south":{"uv":[0.0,0.0,6.0,14.0],"texture":"#0","tintindex":0},"north":{"uv":[6.0,0.0,0.0,14.0],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/xiddri_thunder_strike_vfx","particle":"modelengine:entity/xiddri_thunder_strike_vfx"}}

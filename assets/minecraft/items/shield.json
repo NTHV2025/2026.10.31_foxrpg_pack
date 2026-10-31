@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"using_item","on_true":{"type":"range_dispatch","property":"custom_model_data","entries":[],"fallback":{"type":"special","model":{"type":"shield"},"base":"item/shield_blocking"}},"on_false":{"type":"range_dispatch","property":"custom_model_data","entries":[],"fallback":{"type":"special","model":{"type":"shield"},"base":"item/shield"}}}}

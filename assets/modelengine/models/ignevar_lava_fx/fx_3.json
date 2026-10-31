@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[8.0,8.0,5.25],"to":[8.0,22.0,10.75],"faces":{"east":{"uv":[8.875,0.0,7.5,3.5],"texture":"#0","tintindex":0},"west":{"uv":[7.5,0.0,8.875,3.5],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/ignevar_slash_fx","particle":"modelengine:entity/ignevar_slash_fx"}}

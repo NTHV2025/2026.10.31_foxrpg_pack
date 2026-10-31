@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[-4.0,-4.0,8.0],"to":[20.0,20.0,8.0],"faces":{"south":{"uv":[8.0,8.0,11.0,11.0],"texture":"#13","tintindex":0},"north":{"uv":[8.0,8.0,11.0,11.0],"texture":"#13","tintindex":0}}}],"textures":{"13":"modelengine:entity/vfx1","particle":"modelengine:entity/vfx1"}}

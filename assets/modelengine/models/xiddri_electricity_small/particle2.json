@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[0.5,4.25,13.0],"to":[0.5,11.75,21.0],"faces":{"east":{"uv":[0.625,3.875,2.625,5.75],"texture":"#0","tintindex":0},"west":{"uv":[2.625,3.875,0.625,5.75],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/xiddri_electricity_small","particle":"modelengine:entity/xiddri_electricity_small"}}

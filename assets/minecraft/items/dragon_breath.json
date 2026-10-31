@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":240092.0,"model":{"type":"model","model":"foxrpg_world_end_soul","tints":[]}},{"threshold":240094.0,"model":{"type":"model","model":"foxrpg_world_end_blood","tints":[]}}],"fallback":{"type":"model","model":"item/dragon_breath","tints":[]}}}

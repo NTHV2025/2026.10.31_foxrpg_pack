@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[-16.0,8.1,-16.0],"to":[32.0,8.1,32.0],"faces":{"up":{"uv":[0.0,0.0,16.0,16.0],"texture":"#0","tintindex":0},"down":{"uv":[0.0,0.0,16.0,16.0],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/wolfmob29skill7","particle":"modelengine:entity/wolfmob29skill7"}}

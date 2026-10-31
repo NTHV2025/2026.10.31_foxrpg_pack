@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[8.0,8.0,2.5],"to":[22.0,8.0,11.5],"faces":{"up":{"uv":[0.0,2.25,3.5,0.0],"texture":"#0","tintindex":0},"down":{"uv":[0.0,0.0,3.5,2.25],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/talonstrider_desert_texture","particle":"modelengine:entity/talonstrider_desert_texture"}}

@@ -1,0 +1,1 @@
+{"model":{"type":"composite","models":[{"type":"model","model":"modelengine:goofy_goblin/left-ear","tints":[{"type":"custom_model_data","default":16777215}]},{"type":"model","model":"modelengine:goofy_goblin/left-ear/1","tints":[{"type":"custom_model_data","default":16777215}]}]}}

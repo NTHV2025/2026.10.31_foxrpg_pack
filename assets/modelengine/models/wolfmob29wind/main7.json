@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[-4.0,8.0,8.0],"to":[20.0,32.0,8.0],"faces":{"south":{"uv":[16.0,0.0,0.0,16.0],"texture":"#6","tintindex":0},"north":{"uv":[0.0,0.0,16.0,16.0],"texture":"#6","tintindex":0}}}],"textures":{"6":"modelengine:entity/wolfmob29winda8","particle":"modelengine:entity/wolfmob29winda8"}}

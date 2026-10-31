@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"display_context","cases":[{"when":["gui","ground","fixed","on_shelf"],"model":{"type":"model","model":"pack1:item/water_staff","tints":[]}}],"fallback":{"type":"model","model":"pack1:item/water_staff_in_hand","tints":[]}},"swap_animation_scale":1.95}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":200350.0,"model":{"type":"model","model":"pack1_silver_shovel","tints":[]}}],"fallback":{"type":"model","model":"item/iron_shovel","tints":[]}}}

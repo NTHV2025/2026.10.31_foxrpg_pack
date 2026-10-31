@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[30.0,225.0,0.0]}},"elements":[{"from":[6.5,8.0,-10.000048],"to":[9.5,8.0,7.9999523],"faces":{"up":{"uv":[12.0,14.09091,11.727273,12.454546],"texture":"#0","tintindex":0},"down":{"uv":[12.272728,12.454546,12.0,14.09091],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/wanderer","particle":"modelengine:entity/wanderer"}}

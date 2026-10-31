@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"using_item","on_true":{"type":"model","model":"tugkandeman_weaponry_vol4:ancient_brute_shield","tints":[]},"on_false":{"type":"model","model":"tugkandeman_weaponry_vol4:ancient_brute_shield","tints":[]}}}

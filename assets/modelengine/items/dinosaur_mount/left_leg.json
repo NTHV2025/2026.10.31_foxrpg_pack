@@ -1,0 +1,1 @@
+{"model":{"type":"composite","models":[{"type":"model","model":"modelengine:dinosaur_mount/left_leg","tints":[{"type":"custom_model_data","default":16777215}]},{"type":"model","model":"modelengine:dinosaur_mount/left_leg/1","tints":[{"type":"custom_model_data","default":16777215}]}]}}

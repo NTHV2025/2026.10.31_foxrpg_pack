@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[4.5,5.0,8.0],"to":[11.5,8.0,8.0],"faces":{"south":{"uv":[11.475,0.775,9.775,1.475],"texture":"#0","tintindex":0},"north":{"uv":[9.775,0.775,11.475,1.475],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/goblin","particle":"modelengine:entity/goblin"}}

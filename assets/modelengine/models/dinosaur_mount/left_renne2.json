@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[8.0,7.5,8.0],"to":[8.0,8.5,32.0],"faces":{"east":{"uv":[4.375,2.0,5.125,2.03125],"texture":"#1","tintindex":0},"west":{"uv":[12.4375,3.25,13.1875,3.28125],"texture":"#1","tintindex":0}}}],"textures":{"1":"modelengine:entity/grok","particle":"modelengine:entity/grok"}}
